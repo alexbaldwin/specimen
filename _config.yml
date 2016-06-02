@@ -27,3 +27,4 @@ fonts:
     - title: "mark"
     - title: "unica"
     - title: "zwo"
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor]
